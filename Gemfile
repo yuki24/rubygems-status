@@ -12,6 +12,7 @@ gem 'sass-rails'
 gem 'coffee-rails'
 gem 'uglifier'
 gem 'rails_12factor'
+gem 'jbuilder'
 
 gem 'rake'
 gem 'mocha', :require => false
